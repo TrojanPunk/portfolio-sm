@@ -82,6 +82,10 @@ a:hover {
   text-decoration: none;
 }
 
+.text-justify {
+  text-align: justify;
+}
+
 h1,
 h2,
 h3,
